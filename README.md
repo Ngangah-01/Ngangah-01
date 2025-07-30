@@ -1,6 +1,8 @@
 
 # 💫 About Me:
 
+![Git in action](./code.gif)
+
 
 👩‍💻 Currently building  stuff with Spring Boot, Java, and frontends that don’t make users squint.<br>🚀 I'm currently learning more about Springboot and ReactJS.<br>🤝 Open to collabs in backend wizardry, database magic, or anything that involves creative problem-solving.<br>🧠 Ask me about troubleshooting springboot,python and java.<br>⚡ Fun fact: My debugging ritual includes coffee, stack traces, and sheer stubborn brilliance.
 
