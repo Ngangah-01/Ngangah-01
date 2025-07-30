@@ -1,5 +1,7 @@
-# Hi 👋🏻 I'm Hillary
+<div align="center"> 
+# Hi 👋🏻 I'm Hillary<br>
 # 💫 About Me:
+</div>
 
 <table>
   <tr>
