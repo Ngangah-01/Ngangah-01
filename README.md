@@ -6,8 +6,10 @@
 <table>
   <tr>
     <td>
-      <p>👩‍💻 Currently building stuff with  Java Spring Boot 'en Kotlin.<br>
+      <p>👩‍💻 Currently building stuff with Spingboot, and Kotlin.<br>
+      🚀 I'm currently learning more about Caching and ERPs<br>
       🤝 Open to collabs in backend wizardry, database magic, or anything that involves creative problem-solving.<br>
+      🧠 Ask me about troubleshooting springboot, python and java.<br>
     </td>
      <td>
       <img src="./code.gif" alt="Git in action" width="400" Height="400"/>
