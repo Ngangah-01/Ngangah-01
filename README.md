@@ -1,8 +1,6 @@
 
 # Hi 👋🏻 I'm Hillary
 # 💫 About Me:
-
-
 <table>
   <tr>
     <td>
@@ -16,7 +14,6 @@
     </td>
   </tr>
 </table>
-
 
 
 ## 🌐 Socials:
